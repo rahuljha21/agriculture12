@@ -1,0 +1,8 @@
+streamlit==0.68.1
+pandas
+numpy
+keras
+PIL
+io
+tensorflow
+keras
